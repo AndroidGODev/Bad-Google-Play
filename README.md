@@ -1,6 +1,19 @@
 ## 这里是一个专门收集大家上架Google Play被应用下架或是账号被封的数据收集库
 
-**本库同步共享文档：[Android GO出海谷歌封号数据收集库](https://docs.qq.com/sheet/DZldVTnBqeGxFRlBO?tab=BB08J2)**
+**本库同步腾讯在线文档：[Android GO出海谷歌封号数据收集库](https://docs.qq.com/sheet/DZldVTnBqeGxFRlBO?tab=BB08J2)**
+
+如果你也想将封号申诉的案例同步到此库，或者寻求封号申诉帮助，[请通过以下问卷链接提供必要信息。](https://wj.qq.com/s2/15600917/8c87/)
+
+
+**GitHub链接：[Bad-Google-Play](https://github.com/AndroidGODev/Bad-Google-Play)**
+
+或是直接在GitHub上面按照格式要求填写提交PR，审批没问题就直接合并。
+
+
+
+### 关于我
+
+<img src="image/about.png" alt="about" style="zoom:80%;" />
 
 
 
